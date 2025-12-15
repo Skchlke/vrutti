@@ -4,7 +4,7 @@
 It delivers personalized career insights based on user interests, skills, personality traits, and aspirations.
 
 
-https://github.com/Skchlke/vrutti/blob/main/vrutti_img1.jpeg
+<img src="https://github.com/Skchlke/vrutti/blob/main/vrutti_img1.jpeg" />
 
 
 ## 🎯 Project Vision
