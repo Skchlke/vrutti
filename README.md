@@ -7,6 +7,9 @@ It delivers personalized career insights based on user interests, skills, person
 <img src="https://github.com/Skchlke/vrutti/blob/main/vrutti_img1.jpeg" />
 
 
+<img src="https://github.com/Skchlke/vrutti/blob/main/vrutti_img2.jpeg" />
+
+
 ## 🎯 Project Vision
 
 To move users from **career confusion to clarity** by offering:
